@@ -60,7 +60,7 @@ export const Header = () => {
               <span className="ml-2">💖</span>
             </NextLink>
             <NextLink
-              href="https://github.com/Darginec05/Yoopta-Editor"
+              href="https://github.com/abhishek252003/Yoopta-Editor-master.git"
               target="_blank"
               rel="noopener noreferrer"
               className="md:mr-4 mr-1 flex items-center"

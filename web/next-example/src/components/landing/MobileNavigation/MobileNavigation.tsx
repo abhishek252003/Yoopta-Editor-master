@@ -72,7 +72,7 @@ const MobileNavigation = () => {
           <Code2Icon size={15} className="ml-2" color="#00ca56" />
         </NextLink>
         <NextLink
-          href="https://github.com/sponsors/Darginec05"
+          href="https://github.com/abhishek252003/Yoopta-Editor-master.git"
           target="_blank"
           rel="noopener noreferrer"
           className="mr-4 flex items-center"
@@ -80,7 +80,7 @@ const MobileNavigation = () => {
           Sponsor <span className="ml-2">💖</span>
         </NextLink>
         <NextLink
-          href="https://github.com/Darginec05/Yoopta-Editor"
+          href="https://github.com/abhishek252003/Yoopta-Editor-master.git"
           target="_blank"
           rel="noopener noreferrer"
           className="mr-4 flex items-center"
@@ -89,7 +89,7 @@ const MobileNavigation = () => {
           <StarIcon size={15} className="ml-2" fill="#faca15" color="#faca15" />
         </NextLink>
         <NextLink
-          href="https://discord.com/invite/Dt8rhSTjsn"
+          href="#"
           target="_blank"
           rel="noopener noreferrer"
           className="mr-4 flex items-center"
